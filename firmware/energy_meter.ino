@@ -1,4 +1,3 @@
-```cpp
 /*
   Embedded Energy Management System Using NodeMCU (ESP8266)
   -----------------------------------------------------------
